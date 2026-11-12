@@ -1,0 +1,7 @@
+schema = 1
+id = "agent-resume"
+name = "Agent Resume"
+version = "0.1.0"
+description = "Brings agent CLIs (Claude Code, Codex, pi, opencode, …) back into their sessions after Tern or the machine restarts."
+host = "host.luau"
+window = "window.luau"
